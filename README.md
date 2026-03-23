@@ -39,7 +39,7 @@ Follow modules sequentially. Do **not** skip Module 0.
 - Training vs inference
 - Why models fail
 
-> [00_ML_Foundations/](/00_ML_Foundations/)
+> [00_ML_Foundations/](00_ML_Foundations/)
 
 </details>
 
@@ -52,7 +52,7 @@ Follow modules sequentially. Do **not** skip Module 0.
 - Gradient descent
 - Overfitting & underfitting
 
-> [01_Linear_Models/]() [will be uploaded soon]
+> [01_Linear_Models/](01_Linear_Models/)
 
 </details>
 

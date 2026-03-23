@@ -103,5 +103,4 @@ RL optimizes long-term outcomes, not immediate correctness.
 | Reinforcement   | Rewards / penalties | Decision-making, control        |
 
 **Takeaway:**
->What a model can learn is entirely defined by how it receives feedback.
-
+> What a model can learn is entirely defined by how it receives feedback.

@@ -2,7 +2,7 @@
 
 ML failures are systematic, not mysterious.
 
-The major reasons for failure of a ML Model include:
+The major reasons an ML model fails include:
 
 ***Overfitting***
 - Model memorizes training data

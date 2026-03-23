@@ -1,14 +1,12 @@
-# What is Machine Leaning (ML)
+# What is Machine Learning (ML)
 
 Machine Learning is a method where a computer learns patterns from examples instead of following hand-written rules.
 
-- Traditional programming:
-```sh Rules + Data → Answer```
+- Traditional programming: `Rules + Data -> Answer`
 
-- Machine Learning:
-```sh Data + Answers → Rules (Model)```
+- Machine Learning: `Data + Answers -> Rules (Model)`
 
-![Depiction of Traditional Programmin vs. ML](images/01-1.png)
+![Depiction of Traditional Programming vs. ML](images/01-1.png)
 
 Instead of explicitly telling the system how to decide, we let it discover the decision logic by observing mistakes and improving.
 
